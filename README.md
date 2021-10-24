@@ -9,3 +9,5 @@ Aplicativo simples para fazer download de vídeos do youtube
 ### meu 1° projetinho em python com interface
 
 #### YouTube-Downloader v0.1
+
+##### necessita da biblioteca pytube
